@@ -7,6 +7,7 @@ Alunos: Arthur Queiroz; Arthur Sabino; Lucas Maués.
 
 OBJETIVO:
 Projeto pensado para ser um meio de conservação refrigerada de alimentos, utilizando pastilhas peltier e dissipadores  para a refrigeração, e um arduino com sensor de temperatura para monitoramento, além do recipiente feito de isopor para armazenar os alimentos.Energizado com baterias e de maneira simples de uso, foi pensado para ser acessível e de fácil manuseio.   
+
 CONTEXTO:
 Foi pensado para atender os moradores da Ilha das Onças, que por não terem acesso a um meio de conservação de alimentos, acabavam estragando as colheitas de açaí e muitos moradores tiram sustento e comida dessas colheitas.
 
