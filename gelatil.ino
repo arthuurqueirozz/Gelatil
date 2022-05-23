@@ -17,9 +17,17 @@ void setup() {
 }
 
 void loop() {
-  DHT.read11(pinoDHT);
+  int t = DHT.temperature;
+  if(t <= 20)
+  {DHT.read11(pinoDHT);
   ue.setCursor(0,0);
-  ue.print("TEMPERATURA: ");
+  ue.print("TEMPERATURA OK!:");
   ue.setCursor(4,1);
-  ue.print(DHT.temperature);
+  ue.print(t);}else
+  {DHT.read11(pinoDHT);
+  ue.setCursor(0,0);
+  ue.print("TEMPERATURA ALTA:");
+  ue.setCursor(4,1);
+  ue.print(t);
+  }
 }
