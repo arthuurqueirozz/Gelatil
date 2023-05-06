@@ -24,3 +24,6 @@ TECNOLOGIAS UTILIZADAS:
 A pastilha peltier,juntamente com os dissipadores colados em cada lado da pastilha, será a responsável por refrigerar o recipiente feito de material isolante onde será
 armazenado o açaí.O arduino trabalhará com o snesor de temperatura para monitoramento da temperatura do recipente, que será mostrada no display LCD. Todo o sistema será
 alimentado por baterias para facilitar o uso da população da ilha.
+
+Link do video mostrando o protótipo:
+https://www.youtube.com/watch?v=mUeHCneU09w&ab_channel=ArthurQueiroz
